@@ -1,0 +1,29 @@
+{
+  "name": "rest-api-course-project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000O\u0000D\u0000E\u0000 \u0000J\u0000S\u0000 \u0000P\u0000R\u0000A\u0000C\u0000T\u0000I\u0000C\u0000E\u0000 \u0000P\u0000R\u0000O\u0000J\u0000E\u0000C\u0000T\u0000 \u0000P\u0000O\u0000S\u0000T\u0000S\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohanesnaldo31/nodejsOnlineCoursePractice.git"
+  },
+  "author": "Yohanes Naldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohanesnaldo31/nodejsOnlineCoursePractice/issues"
+  },
+  "homepage": "https://github.com/yohanesnaldo31/nodejsOnlineCoursePractice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "mongoose": "^5.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
